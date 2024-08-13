@@ -1,6 +1,6 @@
 token:
     secret: c3ByaW5nLWJvb3Qtc2VjdXJpdHktand0LXR1dG9yaWFsLWppd29vbi1zcHJpbmctYm9vdC1zZWN1cml0eS1qd3QtdHV0b3JpYWwK
-    expiration: 86400002
+    expiration: 86400003
 
 gateway:
   ip: 192.168.0.0
